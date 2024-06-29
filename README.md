@@ -32,7 +32,6 @@ This project employs ML to analyze medical images for early Parkinson's Disease 
 * scikit-learn
 * OpenCV
 * Flask
-* Twilio API
 
 ## Machine Learning and Deep Learning Approach
 
