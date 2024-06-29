@@ -11,7 +11,7 @@
 
 ## About
 
-This project was created for capstone [HackUCI](https://www.hackuci.com/). It started as a solo project created in 32 hours. For more detailed information on the project.
+This project employs ML to analyze medical images for early Parkinson's Disease detection. Trained on historical data, ML models distinguish between healthy and PD-affected individuals, boosting diagnostic accuracy. Early detection enables timely intervention, enhancing patient care and outcomes in PD management.
 
 ## Technologies
 
