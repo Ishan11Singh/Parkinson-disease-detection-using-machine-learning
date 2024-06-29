@@ -21,11 +21,6 @@
   Positive prediction
 </p>
 
-
-<p align="center">
-  <a href="https://devpost.com/software/parkinvision-79jpa8">Details</a>
-</p>
-
 ## About
 
 This project employs ML to analyze medical images for early Parkinson's Disease detection. Trained on historical data, ML models distinguish between healthy and PD-affected individuals, boosting diagnostic accuracy. Early detection enables timely intervention, enhancing patient care and outcomes in PD management.
