@@ -16,7 +16,7 @@
 
 </p>
 <p align="center">
-  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/929/170/datas/gallery.jpg" />
+  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/929/170/datas/gallery.jpg" with=300/>
 </p>
 
 ## About
