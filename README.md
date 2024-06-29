@@ -11,7 +11,12 @@
 
 </p>
 <p align="center">
-  <a href="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/929/166/datas/original.png"></a>
+  <img href="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/929/166/datas/original.png" />
+</p>
+
+</p>
+<p align="center">
+  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/929/170/datas/gallery.jpg" />
 </p>
 
 ## About
