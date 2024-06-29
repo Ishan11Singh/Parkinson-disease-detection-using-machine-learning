@@ -6,12 +6,12 @@
   Hand-drawn spiral prediction for Parkinson's disease.
 </p>
 <p align="center">
-  <a href="https://devpost.com/software/parkinvision-79jpa8">Devpost</a>
+  <a href="https://devpost.com/software/parkinvision-79jpa8">Details</a>
 </p>
 
 ## About
 
-This project was created for UC Irvine's [HackUCI](https://www.hackuci.com/) 2020 hackathon. It started as a solo project created in 32 hours. For more detailed information on the project, please refer to the Devpost link above.
+This project was created for capstone [HackUCI](https://www.hackuci.com/). It started as a solo project created in 32 hours. For more detailed information on the project.
 
 ## Technologies
 
