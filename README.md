@@ -12,13 +12,13 @@
 </p>
 <p align="center">
   <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/929/170/datas/original.png" />
-  Negative prediction
+  Positive prediction
 </p>
 
 </p>
 <p align="center">
   <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/929/169/datas/original.png" />
-  Positive prediction
+  Negative prediction
 </p>
 
 ## About
