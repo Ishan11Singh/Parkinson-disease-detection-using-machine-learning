@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/929/166/datas/original.png" width="300" />
+  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/929/166/datas/original.png" />
   
 </p>
 <p align="center">
-  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/929/170/datas/gallery.jpg" width="300" />
+  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/929/170/datas/gallery.jpg" />
 </p>
 
 <p align="center">
