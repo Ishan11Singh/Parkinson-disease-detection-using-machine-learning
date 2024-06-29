@@ -8,10 +8,12 @@
 <p align="center">
   <a href="https://devpost.com/software/parkinvision-79jpa8">Details</a>
 </p>
+
 </p>
 <p align="center">
-  <a href="[https://devpost.com/software/parkinvision-79jpa8](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/929/166/datas/original.png)">Details</a>
+  <a href="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/929/166/datas/original.png"></a>
 </p>
+
 ## About
 
 This project employs ML to analyze medical images for early Parkinson's Disease detection. Trained on historical data, ML models distinguish between healthy and PD-affected individuals, boosting diagnostic accuracy. Early detection enables timely intervention, enhancing patient care and outcomes in PD management.
