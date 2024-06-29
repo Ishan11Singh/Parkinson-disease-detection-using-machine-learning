@@ -5,18 +5,17 @@
 <p align="center">
   Hand-drawn spiral prediction for Parkinson's disease.
 </p>
+
+<p align="center>
+  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/929/166/datas/original.png" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/929/170/datas/gallery.jpg" width="300" />
+</p>
+
 <p align="center">
   <a href="https://devpost.com/software/parkinvision-79jpa8">Details</a>
-</p>
-
-</p>
-<p align="center">
-  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/929/166/datas/original.png" />
-</p>
-
-</p>
-<p align="center">
-  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/929/170/datas/gallery.jpg" with=300/>
 </p>
 
 ## About
